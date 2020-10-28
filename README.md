@@ -2,7 +2,7 @@
 <h3 align="center">I'm a full stack web developer with a passion for building delightful, intuitive apps.</h3>
 
 <p align="center">
-🌕&nbsp&nbsp&nbsp&nbsp&nbsp🌖&nbsp&nbsp&nbsp&nbsp&nbsp🌗&nbsp&nbsp&nbsp&nbsp&nbsp🌘&nbsp&nbsp&nbsp&nbsp&nbsp🌑&nbsp&nbsp&nbsp&nbsp&nbsp🌒&nbsp&nbsp&nbsp&nbsp&nbsp🌓&nbsp&nbsp&nbsp&nbsp&nbsp🌔
+🌑&nbsp&nbsp&nbsp&nbsp&nbsp🌒&nbsp&nbsp&nbsp&nbsp&nbsp🌓&nbsp&nbsp&nbsp&nbsp&nbsp🌔&nbsp&nbsp&nbsp&nbsp&nbsp🌕&nbsp&nbsp&nbsp&nbsp&nbsp🌖&nbsp&nbsp&nbsp&nbsp&nbsp🌗&nbsp&nbsp&nbsp&nbsp&nbsp🌘&nbsp&nbsp&nbsp&nbsp&nbsp🌑
 </p>
 
 <h3 align="center">Find me on LinkedIn here:</h3>
