@@ -5,7 +5,7 @@
 🌑&nbsp&nbsp&nbsp&nbsp&nbsp🌒&nbsp&nbsp&nbsp&nbsp&nbsp🌓&nbsp&nbsp&nbsp&nbsp&nbsp🌔&nbsp&nbsp&nbsp&nbsp&nbsp🌕&nbsp&nbsp&nbsp&nbsp&nbsp🌖&nbsp&nbsp&nbsp&nbsp&nbsp🌗&nbsp&nbsp&nbsp&nbsp&nbsp🌘&nbsp&nbsp&nbsp&nbsp&nbsp🌑
 </p>
 
-<h3 align="center">Find me on LinkedIn here:</h3>
+<h3 align="center">Say hi on LinkedIn:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/matthew-green-01638a58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/matthew-green-01638a58" height="30" width="40" /></a>
 </p>
