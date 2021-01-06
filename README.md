@@ -1,7 +1,6 @@
 <h1 align="center">Hey! I'm Matt Green 🙋‍♂️</h1>
-<br>
 <h3 align="center">I'm a full stack web developer with a passion for building delightful, intuitive apps.</h3>
-<br>
+
 <p align="center">
 🌑&nbsp&nbsp&nbsp&nbsp&nbsp🌒&nbsp&nbsp&nbsp&nbsp&nbsp🌓&nbsp&nbsp&nbsp&nbsp&nbsp🌔&nbsp&nbsp&nbsp&nbsp&nbsp🌕&nbsp&nbsp&nbsp&nbsp&nbsp🌖&nbsp&nbsp&nbsp&nbsp&nbsp🌗&nbsp&nbsp&nbsp&nbsp&nbsp🌘&nbsp&nbsp&nbsp&nbsp&nbsp🌑
 </p>
