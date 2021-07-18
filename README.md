@@ -1,20 +1,20 @@
 <h1 align="center">Hey! I'm Matt Green 🙋‍♂️</h1>
 <h3 align="center">I'm a full stack web developer with a passion for building delightful, intuitive apps.</h3>
-
+<br>
 <p align="center">
 🌑&nbsp&nbsp&nbsp&nbsp&nbsp🌒&nbsp&nbsp&nbsp&nbsp&nbsp🌓&nbsp&nbsp&nbsp&nbsp&nbsp🌔&nbsp&nbsp&nbsp&nbsp&nbsp🌕&nbsp&nbsp&nbsp&nbsp&nbsp🌖&nbsp&nbsp&nbsp&nbsp&nbsp🌗&nbsp&nbsp&nbsp&nbsp&nbsp🌘&nbsp&nbsp&nbsp&nbsp&nbsp🌑
 </p>
 
-
-<h3 align="center">Checkout my portfolio: 
+<br>
+<h3 align="center">Checkout my portfolio, 
    <a href="https://mattgreen.io/">mattgreen.io</a> 
    or say hi on
    <a href="https://linkedin.com/in/www.linkedin.com/in/matthew-green-01638a58" target="blank">LinkedIn</a>!
 </h3>
-
+<br>
 
 <h3 align="center">Some languages and tools I've worked with:</h3>
-
+<br>
 <p align="center"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
