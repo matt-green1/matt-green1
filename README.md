@@ -5,10 +5,13 @@
 🌑&nbsp&nbsp&nbsp&nbsp&nbsp🌒&nbsp&nbsp&nbsp&nbsp&nbsp🌓&nbsp&nbsp&nbsp&nbsp&nbsp🌔&nbsp&nbsp&nbsp&nbsp&nbsp🌕&nbsp&nbsp&nbsp&nbsp&nbsp🌖&nbsp&nbsp&nbsp&nbsp&nbsp🌗&nbsp&nbsp&nbsp&nbsp&nbsp🌘&nbsp&nbsp&nbsp&nbsp&nbsp🌑
 </p>
 
-<h3 align="center">Say hi on LinkedIn:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/matthew-green-01638a58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/matthew-green-01638a58" height="30" width="40" /></a>
-</p>
+
+<h3 align="center">Checkout my portfolio: 
+   <a href="https://mattgreen.io/">mattgreen.io</a> 
+   or say hi on
+   <a href="https://linkedin.com/in/www.linkedin.com/in/matthew-green-01638a58" target="blank">LinkedIn</a>!
+</h3>
+
 
 <h3 align="center">Some languages and tools I've worked with:</h3>
 
